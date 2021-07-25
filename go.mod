@@ -12,7 +12,7 @@ require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cenkalti/backoff/v4 v4.1.0
-	github.com/derailed/popeye v0.9.0
+	github.com/derailed/popeye v0.9.7
 	github.com/derailed/tview v0.6.1
 	github.com/drone/envsubst v1.0.2 // indirect
 	github.com/fatih/color v1.10.0
@@ -34,7 +34,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/text v0.3.6
 	gopkg.in/yaml.v2 v2.4.0
-	helm.sh/helm/v3 v3.6.1
+	helm.sh/helm/v3 v3.6.3
 	k8s.io/api v0.21.2
 	k8s.io/apimachinery v0.21.2
 	k8s.io/cli-runtime v0.21.2
